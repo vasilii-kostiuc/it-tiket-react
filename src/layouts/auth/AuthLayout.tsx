@@ -23,7 +23,7 @@ export default function AuthLayout() {
       </div>
 
       <div className="relative flex w-full max-w-5xl flex-col items-center justify-center gap-12">
-        <section className="bg-gray-50 dark:bg-gray-900">
+        <section className="">
           <div className="mx-auto flex flex-col items-center justify-center px-6 py-8 md:h-screen lg:py-0">
             <a
               href="#"
